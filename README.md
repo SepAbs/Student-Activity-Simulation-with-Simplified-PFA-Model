@@ -1,4 +1,4 @@
-# Student-Activity-Simulation-with-Simplified-PFA
+# Student-Activity-Simulation-with-Simplified-PFA-Model
 A verification assignment under Prof. Sherry (Shaghayegh) Sahebi for recommender systems, focusing on modeling student activity using simplified PFA (Performance Factor Analysis).
 
 🎯 Objective
